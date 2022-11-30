@@ -46,7 +46,7 @@ Uppgiften presenteras för läraren på lektionstid sista kursveckan. I samband 
 + Visa att den uppfyller kraven i uppgiften
 + Förklara hur du har använt animationens principer när du designat animationer
 
-[(Länk till bokningsdokument kommer här)]().
+[Boka tid för presentation här](https://docs.google.com/spreadsheets/d/1NhDyEoYzogeXU8-4Rqzn-pgzSRVCN4C04iL8EvmASfM/edit?usp=sharing).
 
 ---
 ## Inlämning
