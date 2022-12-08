@@ -57,6 +57,14 @@ Uppgiften lämnas in på Moodle sista kursveckan. Din inlämning ska innehålla:
 
 Om du av någon anledning skulle missa presentationen, måste du ha med en skriftlig rapport i <code>README.md</code> i ditt GitHub-repo. Då får du inte heller någon feedback innan betygsättningen.
 
+
+### Skriftlig rapport - $$\color{red}{NY!}$$
+Syftet med din rapport är att du ska visa det som du inte visade i presentationen. Din rapport ska svara på frågorna:
+
+1. Vilka av diagrammen ovan har du implementerat?
+1. Vilka animeringar har du?
+1. Hur har du använt dig av animationens principer när du designat animeringarna?
+
 ---
 ## Bedömning
 
